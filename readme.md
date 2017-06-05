@@ -1,34 +1,23 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+# Specifications
 
-# JavaScript30
+## Goal
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+- [ ] Goal idea has been added as an issue to the goal library project (unless you are using an existing goal idea)
+- [ ] New goal is submitted to goal library thorugh a pull request with new file in _goals/ directory
+- [ ] Description in pull request includes a brief overview of why this goal is useful
+- [ ] Description in pull request includes a link to example project for goal
+- [ ] Description in pull request includes a list of skill areas from the matrix that this goal address
+- [ ] Goal has a good title
+- [ ] Goal has all front matter / metadata (e.g. team_size, level, authors)
+- [ ] Goal includes complete challenge rating, description, context, and specifications
+- [ ] Goal includes some useful resources
+- [ ] Goal is relevant (focused closely on work similar to that of a professional JS web developer)
+- [ ] Goal has been reviewed by the goal librarian
+- [ ] Goal is approved for publishing and merged into library
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+## Example Project
 
-## Community #JavaScript30 Content
+### Example project for goal shows “proof of concept”.
 
-Feel free to submit a PR adding a link to your own recaps, guides or reviews!
-
-* [Arjun Khode’s blog](http://thesagittariusme.blogspot.com/search/label/JS30) about summaries for each day, including fixed glitches, bugs and extra features
-* [Nitish Dayal's Text Guides](https://github.com/nitishdayal/JavaScript30) are great for those who like reading over watching
-* [Meredith Underell's](http://meredithunderell.com/tag/javascript30/) Quick Lessons Learned
-* [Rowan Weismiller's](http://rowanweismiller.com/blog/javascript-30/) Recaps + Lessons Learned
-* [Thorsten Frommen](https://tfrommen.de/tag/javascript-30/) shares how he solved the exercises before viewing the answers
-* [Soyaine 写的中文指南](https://github.com/soyaine/JavaScript30)包含了过程记录和难点解释
-* [Ayo Isaiah's](https://freshman.tech/archive/#javascript30) Recaps and Lessons Learned
-* [Adriana Rios](https://stpcollabr8nlstn.github.io/JavaScript30/) shares her alternative solutions
-* [Michael Einsohn](http://30daysofjs.michaeleinsohn.com) publishes each challenge after watching the video once
-* [Mike Ekkel](https://medium.com/@mike_ekkel/javascript-30-a-30-day-vanilla-js-challenge-6a733fc9f62c#.9frjtaje9)
-* [Akinjide Bankole](https://github.com/akinjide/JS30days) used Node.js with [Jade](http://jadelang.net) to solve the exercises
-* [Yusef Habib](https://github.com/yhabib/JavaScript30) lessons and tricks learned, and a [gh-page](https://yhabib.github.io/JavaScript30/) to see working all the mini-projects.
-* [Amelie Yeh](https://github.com/amelieyeh/JS30) 30 lessons notes with things I've learned, and those important recaps. and directly view my demos [here](https://amelieyeh.github.io/JS30/) 🇹🇼😄
-* [Winar](https://github.com/winar-jin/JavaScript30-Challenge)的JavaScript30天挑战，记录练习过程，重难点和其他的解决方案。🎨
-
-## A note on Pull Requests
-
-These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
-
-The starter files + solutions will be updated if/when the videos are updated.
-
-Thanks!
+- [ ] 80%+ of core specifications have been completed
+- [ ] Project is functional (the code doesn’t break with basic usage)
